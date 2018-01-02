@@ -64,7 +64,6 @@ section:last-child {
 .highlight { background-color: hsl(0, 0%, 100%); }
 
 * {
-  line-height: calc(1em + 1ex);
   box-sizing: border-box;
 }
 
